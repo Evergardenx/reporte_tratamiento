@@ -1,0 +1,5 @@
+{
+    "require": {
+        "laraveldaily/laravel-charts": "^0.2.3"
+    }
+}
